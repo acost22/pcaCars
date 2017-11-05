@@ -11,6 +11,6 @@ names(pcasCars)
 # proportion of variance explained
 summary(pcasCars)
 
-# scree plot 
-plot(pcasCars, type = "l")
+# bar plot 
+plot(pcasCars)
 
